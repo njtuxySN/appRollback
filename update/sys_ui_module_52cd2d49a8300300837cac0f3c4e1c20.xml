@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="vm_02_table">9ecd2d49a8300300837cac0f3c4e1c1d</application>
+        <filter/>
+        <name>a_good_tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_app_from_vm02.a_good_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:34:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>52cd2d49a8300300837cac0f3c4e1c20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a_good_tables</sys_name>
+        <sys_package display_value="app_from_vm02" source="x_app_from_vm02">3dda6909a8300300837cac0f3c4e1c5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app_from_vm02">3dda6909a8300300837cac0f3c4e1c5c</sys_scope>
+        <sys_update_name>sys_ui_module_52cd2d49a8300300837cac0f3c4e1c20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:34:31</sys_updated_on>
+        <table>x_app_from_vm02_a_good_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

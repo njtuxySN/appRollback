@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="a_good_table" max_length="40" name="x_app_from_vm02_a_good_table" type="collection">
+        <element label="first col" max_length="100" name="first_col" type="string"/>
+    </element>
+</database>

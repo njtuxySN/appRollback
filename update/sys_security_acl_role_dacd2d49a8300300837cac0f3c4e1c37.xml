@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:34:31</sys_created_on>
+        <sys_id>dacd2d49a8300300837cac0f3c4e1c37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_app_from_vm02_a_good_table.x_app_from_vm02.a_good_table_user</sys_name>
+        <sys_package display_value="app_from_vm02" source="x_app_from_vm02">3dda6909a8300300837cac0f3c4e1c5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app_from_vm02">3dda6909a8300300837cac0f3c4e1c5c</sys_scope>
+        <sys_security_acl display_value="x_app_from_vm02_a_good_table">92cd2d49a8300300837cac0f3c4e1c35</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dacd2d49a8300300837cac0f3c4e1c37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:34:31</sys_updated_on>
+        <sys_user_role display_value="x_app_from_vm02.a_good_table_user" name="x_app_from_vm02.a_good_table_user">46cde949a8300300837cac0f3c4e1cf8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
